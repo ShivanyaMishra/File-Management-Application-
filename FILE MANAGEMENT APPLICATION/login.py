@@ -15,7 +15,7 @@ app.title("Modern Login UI using Customtkinter")
 
 def login():
 
-    username = "shivi"
+    username = "admin"
     password = "12345"
 
     if user_entry.get() == username and user_pass.get() == password:
@@ -57,6 +57,7 @@ button.pack(pady=12,padx=10)
 
 checkbox = ctk.CTkCheckBox(master=frame,text='Remember Me')
 checkbox.pack(pady=12,padx=10)
+
 
 
 app.mainloop()
