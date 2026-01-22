@@ -20,7 +20,7 @@ Clean and modern login UI
 
 Default credentials:
 
-Username: shivi
+Username: admin
 
 Password: 12345
 
